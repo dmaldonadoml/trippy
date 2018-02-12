@@ -1,0 +1,14 @@
+{
+  "name": "trippy",
+  "version": "1.0.0",
+  "description": "Trippy agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "trip"
+  ],
+  "author": "dmaldonado",
+  "license": "ISC"
+}
